@@ -1,0 +1,17 @@
+{
+  "Menu": 1,
+  "Div": 3,
+  "Image": 16,
+  "Flex": 4,
+  "Icon": 1,
+  "Button": 12,
+  "Input": 4,
+  "Overlay": 2,
+  "Cascader": 2,
+  "Breadcrumb": 1,
+  "Carousel": 1,
+  "UnorderedList": 1,
+  "Testimonial": 1,
+  "Modal": 1,
+  "TextBox": 4
+}
